@@ -1,2 +1,2 @@
 # xiangcaiStudyHomework
-大学四年课程设计作业
+重庆理工大学四年课程设计作业
