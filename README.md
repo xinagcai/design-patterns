@@ -1,2 +1,2 @@
-# algorithm design
-重庆理工大学算法设计平时作业
+# design patterns
+重庆理工大学设计模式平时作业
